@@ -1,0 +1,6 @@
+{
+  "name": "PIAGuard: LLM Prompt Injection Defense",
+  "description": "Detection and mitigation of Prompt Injection Attacks in LLMs using multi-scale loss-shift behavioral analysis and layered defense",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
