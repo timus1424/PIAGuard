@@ -38,7 +38,7 @@ export default function App() {
             <div>
               <span className="font-bold text-slate-300">PIAGuard Research Platform</span>
               <span className="block text-[11px] text-slate-500">
-                PBL Group 13 · Department of Computer Science & Engineering
+                PBL Group 13 · Department of Computer Science & Engineering · Ash
               </span>
             </div>
           </div>
