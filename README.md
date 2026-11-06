@@ -2,7 +2,7 @@
 
 > **Project-Based Learning (PBL) — Group 13**  
 > **Department of Computer Science & Engineering**  
-> **Project Author/Contributor**: Ash
+> **Project Author/Contributor**: Sumit, Pratik, Raisa, Rajorshi, Sarah.
 
 ---
 
